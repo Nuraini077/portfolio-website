@@ -8,3 +8,5 @@ Website ini terdiri dari beberapa bagian utama, yaitu:
 -Contact: menyediakan informasi kontak
 
 Website dirancang dengan tampilan yang sederhana, responsif, dan user-friendly sehingga mudah diakses oleh pengguna dari berbagai perangkat.
+
+![Screenshot Website](screenshot-web.png)
