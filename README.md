@@ -9,4 +9,6 @@ Website ini terdiri dari beberapa bagian utama, yaitu:
 
 Website dirancang dengan tampilan yang sederhana, responsif, dan user-friendly sehingga mudah diakses oleh pengguna dari berbagai perangkat.
 
+## Tampilan Website
+
 ![Screenshot Website](screenshot-web.png)
